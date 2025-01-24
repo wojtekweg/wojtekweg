@@ -1,15 +1,19 @@
-<!---<details>
- ### About me--->
-I’m a second-year Computer Science undergraduate student at Jagiellonian University. My main programming language that I use is Python, but I am familiar also with JavaScript, C++ and Java. Member of the [Computer Science Students Association KSI UJ](https://ksi.ii.uj.edu.pl/en/) and [SFI Academic IT Festival](https://sfi.pl/en/).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=12&pause=1000&color=blue&center=true&vCenter=true&width=435&lines=Hello!+I'm+Wojciech.;Software+Engineer+%7C+Django+%7C+React.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-Right now, besides the studying, I’m working part-time as a Junior Testing Engineer at [Talixo](https://talixo.com/), learning programming and automating the tests, with plans for developing in one of these fields.
-<!---</details>--->
+# Wojciech Węgrzyn
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-w-56a4321aa/)
-[![Gmail Badge](https://img.shields.io/badge/-mail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ojtek@outlook.com)](mailto:ojtek@outlook.com)
-<a class="header-badge" target="_blank" href="https://www.codewars.com/users/wojtekweg">
-      <img alt="Codewars badge" src="https://www.codewars.com/users/wojtekweg/badges/micro">
-  </a>
-<!--![](https://visitor-badge.glitch.me/badge?page_id=wojtekweg.wojtekweg)-->
+- **Software Engineer at [Talixo](https://talixo.com/)** (2019-present)
+- **Computer Science Graduate** at **Jagiellonian University** (BA, 2023)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wojtekweg&hide=tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### About Me
+I specialize in **Python** (Django) development but also have experience with **JavaScript** technologies, including **React**, **Tailwind**, and **Cypress**.
+
+### Skills & Tools  
+- **Languages**: Python, JavaScript  
+- **Frameworks**: Django, React  
+- **Testing Tools**: Cypress
+
+### Let's Connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wojciech-w-56a4321aa/)  
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ojtek@outlook.com)](mailto:ojtek@outlook.com)  
